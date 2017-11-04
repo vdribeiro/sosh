@@ -1,0 +1,12 @@
+README
+
+Para executar o programa:
+
+1-Executar a makefile -> $ make all
+2-Executar a aplicacao cliente -> $ ./sosh_s
+3-Executar a aplicacao servidora (calcula frequencias) -> $ ./freq <<-v> <-t <num threads>>
+
+TODO
+-> terminar processos ao sair
+-> as vezes o comando stats nao é lido stats no servidor (le tipo tsats)
+-> as stats são enviadas para o sosh.canal
